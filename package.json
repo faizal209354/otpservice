@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faizalsalleh/otpservice.git"
+    "url": "git+https://github.com/faizal209354/otpservice.git"
   },
   "author": "Faizal Md Salleh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faizalsalleh/otpservice/issues"
+    "url": "https://github.com/faizal209354/otpservice/issues"
   },
-  "homepage": "https://github.com/faizalsalleh/otpservice#readme",
+  "homepage": "https://github.com/faizal209354/otpservice#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "netlify-lambda": "^2.0.15"
