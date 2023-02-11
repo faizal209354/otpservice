@@ -1,0 +1,24 @@
+{
+  "name": "otpservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lambda-serve": "netlify-lambda serve functions",
+    "lambda-build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizalsalleh/otpservice.git"
+  },
+  "author": "Faizal Md Salleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizalsalleh/otpservice/issues"
+  },
+  "homepage": "https://github.com/faizalsalleh/otpservice#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "netlify-lambda": "^2.0.15"
+  }
+}
